@@ -49,7 +49,7 @@ To start the development server:
 npm run dev
 ```
 
-The application will be available at: `http://localhost:3000/`
+The application will be available at: `http://localhost:5173/`
 
 ### Building for Production
 
@@ -61,7 +61,7 @@ npm run build
 
 ## Usage
 
-- **src/main.js**: The entry point for your Three.js application.
+- **src/index.js**: The entry point for your Three.js application.
 - **src/App.js**: Contains the initialization logic for Three.js, the scene, and the renderer.
 - **src/World.js**: Handles the setup for objects (like meshes), the camera, and controls.
 
@@ -78,6 +78,4 @@ You can add custom objects, lights, or other Three.js features by editing the **
 - [Three.js Documentation](https://threejs.org/docs/)
 - [Vite Documentation](https://vitejs.dev/)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Thank you, kindly share if you find it helpful.
